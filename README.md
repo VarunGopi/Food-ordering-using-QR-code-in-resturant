@@ -5,7 +5,7 @@ Features
 
 QR Code Scanning: Customers can scan the QR code provided at the restaurant to access the menu and place their orders. Menu Display: The menu items are displayed along with their prices, allowing customers to select items they want to order. Order Management: Once orders are placed, they are managed within the system, allowing restaurant staff to process them efficiently. User Authentication: Users can create accounts or log in to access additional features such as order history and personalized settings. Admin Panel: Administrators can manage menu items, user accounts, and view order details through the Django admin interface.
 
-Installation To run this project locally, follow these steps: Clone the repository: git clone https://github.com/your-username/Order-food-using-QR_code-main.git
+
 
 Navigate to the project directory: cd Order-food-using-QR_code-main
 
